@@ -38,7 +38,7 @@ function App() {
               <td>{body}</td>
               <td>{email}</td>
             </tr>
-          }).slice(0, 20)
+          }).slice(0, 30)
         }
       </table>
     </div>
